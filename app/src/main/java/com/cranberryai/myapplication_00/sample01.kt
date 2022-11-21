@@ -6,4 +6,6 @@ fun main() {
 
 fun HelloKotlin() {
     println("Hello Kotlin!!")
+    println("Github Test!")
+
 }
